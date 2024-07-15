@@ -1,0 +1,64 @@
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\CalculationWorker.exe
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\CalculationWorker.deps.json
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\CalculationWorker.runtimeconfig.json
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\CalculationWorker.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\CalculationWorker.pdb
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\DnsClient.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\SharpCompress.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\Snappier.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\ZstdSharp.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.csproj.AssemblyReference.cache
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.AssemblyInfoInputs.cache
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.AssemblyInfo.cs
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.csproj.CoreCompileInputs.cache
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\Calculat.CA4058BF.Up2Date
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\refint\CalculationWorker.dll
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.pdb
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.genruntimeconfig.cache
+E:\Guilherme\Dev\Projeto Software Enginner\worker\CalculationWorker\obj\Debug\net8.0\ref\CalculationWorker.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\CalculationWorker.exe
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\CalculationWorker.deps.json
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\CalculationWorker.runtimeconfig.json
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\CalculationWorker.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\CalculationWorker.pdb
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\DnsClient.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\SharpCompress.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\Snappier.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\ZstdSharp.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.csproj.AssemblyReference.cache
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.AssemblyInfoInputs.cache
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.AssemblyInfo.cs
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.csproj.CoreCompileInputs.cache
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\Calculat.CA4058BF.Up2Date
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\refint\CalculationWorker.dll
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.pdb
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\CalculationWorker.genruntimeconfig.cache
+E:\Guilherme\Dev\CalcAsync\worker\CalculationWorker\obj\Debug\net8.0\ref\CalculationWorker.dll

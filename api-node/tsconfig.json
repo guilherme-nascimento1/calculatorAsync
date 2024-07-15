@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",    // Diretório de saída para os arquivos compilados
+    "rootDir": "./src",    // Diretório raiz dos arquivos TypeScript
+    "module": "commonjs",
+    "target": "es2021",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*"]
+}

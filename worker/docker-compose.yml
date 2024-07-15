@@ -1,0 +1,55 @@
+﻿version: '3.8'
+services:
+  api:
+    build:
+      context: ../api-node  # O caminho para o diretório onde o Dockerfile da API está localizado
+      dockerfile: Dockerfile
+    container_name: api
+    ports:
+      - "3000:3000"
+    environment:
+      - MONGO_URI=mongodb://mongodb:27017/calculations
+      - RABBITMQ_URL=amqp://guest:guest@rabbitmq:5672/
+      - PORT=3000
+    depends_on:
+      - mongodb
+      - rabbitmq
+    networks:
+      - app-network
+
+  worker:
+    build:
+      context: ./CalculationWorker  # O caminho para o diretório onde o Dockerfile do Worker está localizado
+      dockerfile: Dockerfile
+    container_name: worker
+    depends_on:
+      - rabbitmq
+      - mongodb
+    networks:
+      - app-network
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    networks:
+      - app-network
+    volumes:
+      - mongo-data:/data/db
+
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  mongo-data:
